@@ -2,7 +2,7 @@
 
 > **default $0.0672; pro $0.0896; sound $0.1008** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-d5dc50)** · **[Get an API key](https://go.apimart.ai/k-f06f72)**
 
 Everything here refers to **kling-3** — also written **kling3** or **kling 3**.
 
