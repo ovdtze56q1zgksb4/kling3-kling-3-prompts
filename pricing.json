@@ -1,0 +1,15 @@
+{
+  "repo": "kling3-kling-3-prompts",
+  "model": "kling-v3",
+  "display": "Kling v3",
+  "variant": "prompts",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_second",
+  "tiers": {
+    "default": 0.0672,
+    "pro": 0.0896,
+    "sound": 0.1008,
+    "pro-sound": 0.1344
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
