@@ -1,0 +1,10 @@
+{
+  "id": "kling-3.0-turbo",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T02:34:53Z",
+  "prices": {},
+  "rates": {},
+  "unit": null,
+  "hook": "per generated second, billed by resolution",
+  "model_page": "https://apimart.ai/model/kling-3-0-turbo"
+}
